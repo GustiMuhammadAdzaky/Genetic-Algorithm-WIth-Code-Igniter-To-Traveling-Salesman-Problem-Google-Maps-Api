@@ -1,0 +1,14 @@
+// Yang Harus diingat yaitu MVC
+Model = Folder Model>User
+View = Folder Resouce>View>Welcome.blade.php
+Controller = Http>Controllers>Controller
+
+// Penting untuk rute ke view !!!
+Routes terus document web
+
+// membuat styles 
+Ada di folder public buat style.css
+tinggal hubungkan href pada document yang ada di folder views
+
+
+
